@@ -1,92 +1,74 @@
-![logo](https://github.com/Diya-14/Diya-14/blob/main/Screenshot%20(7).png)
+<!-- Animated Typing Header -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Diya;Frontend+Developer+in+Progress;Learning+AI+%26+Python;Future+Software+Engineer+🚀" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Diya</h1>
-<h3 align="center">💻 Frontend Learner | 🚀 Future AI Developer</h3>
-
-<img align="right" alt="coding" width="350" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Diya-14&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<!-- Profile Views -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Diya-14&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
-### 🌱 Currently Learning
-- TypeScript  
-- JavaScript  
-- HTML & CSS  
-- Python  
-- AI & Machine Learning Basics  
+<img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
 
-### ⚡ Fun Fact
-Serious about work & passionate about learning 🚀
+## 💫 About Me
+
+- 🌱 Currently Learning: **TypeScript, JavaScript, HTML, CSS**
+- 🐍 Exploring **Python & AI**
+- 🎯 Goal: Become a Professional Developer
+- ⚡ Fun Fact: Serious about work but love creativity
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://codepen.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" />
-</a>
-
 <a href="https://linkedin.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://codepen.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=codepen" height="40"/>
 </a>
 </p>
 
 ---
 
-## 🛠 Languages and Tools
+## 🚀 Languages & Tools
 
-<p align="left">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,vscode,git,github" />
+</p>
 
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/Style/CSS/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://openai.com/" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="40" height="40"/>
-</a>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Diya-14&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diya-14&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diya-14&layout=compact&theme=tokyonight" />
-</p>
+---
+
+## 🌊 Contribution Snake Animation
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diya-14&theme=tokyonight" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+## 💖 Quote I Believe In
+
+> "Work hard in silence, let your success make the noise."
 
 ---
 
 ⭐ From [Diya-14](https://github.com/Diya-14)
-
 
 
 
