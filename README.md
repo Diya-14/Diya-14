@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="AI Girl Coding" width="380" src="[https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif)">
+<img align="right" alt="AI Girl Coding" width="380" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif">
 
 # 💫 About Me
 
