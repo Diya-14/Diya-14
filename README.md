@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diya-14&show_icons=true&locale=en&layout=compact" alt="diya-14" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diya-14&show_icons=true&locale=en" alt="diya-14" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diya-14&show_icons=true&locale=en&theme=tokyonight" alt="diya-14" /></p>
 
 
