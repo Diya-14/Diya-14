@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋✨+Diya+Iqbal+✨;Full+Stack+Developer;AI+Explorer+🤖;Building+The+Future+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋+I am ✨+Diya+Iqbal+✨;Full+Stack+Developer;AI+Explorer+🤖;Building+The+Future+🚀" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="AI Girl Coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="AI Girl Coding" width="380" src="[https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif)">
 
 # 💫 About Me
 
