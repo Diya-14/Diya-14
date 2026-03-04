@@ -10,6 +10,14 @@
 ---
 
 <img align="right" alt="AI Girl Coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<!-- Profile Views -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Diya-14&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+<img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
 
 # 💫 About Me
 
